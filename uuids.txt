@@ -1,0 +1,10 @@
+loop1  squashfs                                            /snap/core/6350
+loop2  squashfs                                            /snap/core/6964
+sda                                                        
+├─sda1                                                     
+├─sda2 ext4           15f54941-54bc-41a1-bd8a-9d982b36febd /
+└─sda3 ext4           612f05c8-3552-4b09-9b19-3b4535c5989b /home
+sdb                                                        
+├─sdb1 ext4           078f2204-6697-48d8-8512-c61b1946bffe 
+└─sdb2 swap           57c785cc-6d49-41e8-960f-ed4ac7c07d5c 
+sr0                                                        

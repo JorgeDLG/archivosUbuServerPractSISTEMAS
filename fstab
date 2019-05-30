@@ -1,0 +1,7 @@
+UUID=15f54941-54bc-41a1-bd8a-9d982b36febd / ext4 defaults 0 0
+UUID=612f05c8-3552-4b09-9b19-3b4535c5989b /home ext4 defaults 0 0
+#automontaje del 2º disco:
+#UUID=4f730700-98de-4395-b2ed-1da28b535995 /media/sdd2 ext4 defaults 0 0
+#UUID=57c785cc-6d49-41e8-960f-ed4ac7c07d5c none swap defaults 0 0
+
+/swap.img	none	swap	sw	0	0
