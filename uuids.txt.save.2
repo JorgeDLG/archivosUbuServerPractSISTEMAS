@@ -1,5 +1,17 @@
-root:x:0:0:root:/root:/bin/bash
-#root:x:0:0:root:/root:/sbin/nologin
+NAME   FSTYPE   LABEL UUID                                 MOUNTPOINT
+loop0  squashfs                                            /snap/core/6964
+loop1  squashfs                                            /snap/core/6350
+loop2  squashfs                                            /snap/core/6818
+sda                                                        
+├─sda1                                                     
+├─sda2 ext4           15f54941-54bc-41a1-bd8a-9d982b36febd /
+└─sda3 ext4           612f05c8-3552-4b09-9b19-3b4535c5989b /home
+sdb                                                        
+└─sdb1 ext4           129b4ac8-7c14-4d83-a0d1-ccc26d75c676 
+sr0                                                        
+
+#root:x:0:0:root:/root:/bin/bash
+root:x:0:0:root:/root:/sbin/nologin
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
 sys:x:3:3:sys:/dev:/usr/sbin/nologin

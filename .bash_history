@@ -454,3 +454,373 @@ clear
 cat /etc/shadow
 sudo cat /etc/shadow
 poweroff
+ifconfig
+ping www.google.es
+clear
+sudo apt install git
+clear
+cd /etc
+l
+clear
+ls passwd
+git push
+git config
+git config --global 
+git man confg
+git help confg
+git help --confg
+git help -g
+git help everyday 
+git help config
+q
+clear
+git config --global user.name "dlagUbuServer_practicaSISTEMAS" ; git config --global user.email delaguia19905@iesmarenostrum.com
+git config -get user
+git config --get user
+git config --get user.name
+git config --get user.email
+clear
+ls /etc
+clera
+clear
+git help push
+git push passwd -repo='https://github.com/JorgeDLG/archivosUbuServerPractSISTEMAS.git'
+git push passwd -repo=https://github.com/JorgeDLG/archivosUbuServerPractSISTEMAS.git
+git push passwd https://github.com/JorgeDLG/archivosUbuServerPractSISTEMAS.git
+clear
+sudo apt install ssmtp
+clear
+sudo nano /etc/ssmtp/ssmtp.conf
+ssmtp delaguia19905@iesmarenostrum.com
+q
+ssmtp delaguia19905@iesmarenostrum.com
+man ssmtp
+clear
+sudo apt purge ssmtp
+clear
+sudo apt install curl
+clear
+curl --upload-file ./passwd https://transfer.sh/passwd
+curl --upload-file ./passwd https://transfer.sh/passwd -v
+curl --upload-file ./passwd.txt https://transfer.sh/passwd.txt -v
+curl --upload-file ./passwd.conf https://transfer.sh/passwd.txt -v
+curl --upload-file ./passwd https://transfer.sh/passwd.txt -v
+l
+sudo cp passwd ~/
+cat ~/passwd 
+l
+sudo cp group ~/
+sudo cp shadow ~/
+sudo cp sudoers ~/
+sudo cp fstab ~/
+sudo cp crontab ~/
+sudo cp sources.list ~/
+sudo cp apt/sources.list ~/
+sudo mkdir ~/teeesttt sudo cp -R apt/sources.list.d/ ~/teeesttt
+sudo mkdir ~/teeesttt sudo cp -r apt/sources.list.d/ ~/teeesttt
+sudo mkdir ~/teeesttt sudo cp --recursive apt/sources.list.d/ ~/teeesttt
+
+sudo mkdir ~/teeesttt ; sudo cp -r apt/sources.list.d/ ~/teeesttt
+cd ~
+ls
+cat shadow 
+ll
+git init
+git status
+git add .
+sudo git add .
+git status
+git commit -m 'archivosUBUNTUserver'
+git status
+git remote add origin https://github.com/JorgeDLG/archivosUbuServerPractSISTEMAS.git
+git get remote
+git push origin master
+poweroff
+ls /
+df -l
+df -f
+df -h
+dh -f
+dh -l
+clear
+df -h
+df -l
+lsblk -l
+lsblk -f
+lsblk -fa
+info lsblk | grep filetye
+lsb
+info lsblk | grep filetyepe
+info lsblk | grep file
+
+info lsblk | grep extension
+info lsblk | grep FSTYPE
+man fsblk
+info fsblk
+help fsblk
+man -k fsblk
+info fsblk
+clera
+clear
+fdisk -f
+fdisk -l
+sudo fdisk -l
+sudo lsblk -f
+sudo lsblk -l
+sudo lsblk -h
+sudo lsblk -fh
+sudo lsblk -f
+sudo lsblk -fs
+sudo mkfs.ext4 /dev/sdb1 -v
+sudo fdisk -l
+lsblk -f
+ls /media
+ll /media
+pwd
+ls
+ls teeesttt/
+cat uuids.txt 
+rm uuids.txt 
+lsblk -f >> uuids.txt
+cat uud
+cat uuids.txt 
+nano uuids.txt 
+clear
+ls
+cd usr
+cd /usr
+ls pass
+ls passwd
+ls
+a
+cd ..
+cd etc
+ls passwd
+sudo nano passwd
+sudo nano fstab
+ls fstab
+cat fstab
+sudo nano fstab
+cat fstab
+sudo nano fstab
+sudo lsblk -f >> uuid.txt
+sudo -i
+cat passwd
+sudo nano passwd
+sudo -i
+sudo nano fstab 
+cat fstab 
+reboot
+sudo fdisk -f
+sudo fdisk -l
+lsblk -f
+sudo fdisk /dev/sdb
+lsblk -f
+sudo umount /dev/sdb1
+lsblk -f
+sudo fdisk /dev/sdb
+lsklk -f
+lsblk -f
+cat /etc/fstab 
+reboot
+lsblk -f
+sudo umount /dev/sdb1
+lsblk -f
+sudo mkswap dev/sdb2
+lsblk -f
+info mkswap
+clear
+info mkswap
+lsblk -f
+sudo mkswap -f dev/sdb2
+sudo fdisk -f
+sudo fdisk -l
+sudo fdisk /dev/sdb
+lsblk -f
+sudo fdisk /dev/sdb
+lsblk -f
+sudo umount /dev/sdb1
+lsblk -f
+sudo mkswap /dev/sdb2
+lsblk -f
+sudo -i
+sudo nano /etc/fstab 
+ls uuid*
+ls uuidswap.txt
+ls /etc/uuid*.*
+cat /etc/uuid.txt
+cat /etc/uuidswap.txt
+cd /etc
+sudo nano fstab 
+lsblk -f
+sudo swapon /dev/sdb2
+lsblk -f
+cat /etc/fstab 
+reboot
+lsblk -f
+tree /media/
+history | grep 'mkdir /media/ssd2'
+history
+lsblk -f
+tree /media/
+rmdir /media/ssd2
+sudo rmdir /media/ssd2
+tree /medai
+tree /media
+mkdir /media/test
+sudo mkdir /media/sdd2/docs ; sudo mkdir /media/sdd2/docs/direccion /media/sdd2/docs/ventas /media/sdd2/docs/finanzas /media/sdd2/docs/informatica
+ls -R /media
+ls
+pwd
+git status
+cd /media/
+ll
+cd sdd2/
+l
+ll
+l
+man chmod
+sudo chmod -R u=rwx,g=rx,o=rx /docs/
+ll
+sudo chown gerentes /docs/
+ll
+sudo chown gerentes ./docs
+ll
+
+ll
+sudo chmod u=rwx,g=rx,o=rx ./docs
+ll
+tree
+ll /docs/direccion/
+ll /docs
+sudo chown gerentes /docs/direccion/
+ll /docs
+sudo chown jefe_finanzas /docs/finanzas/
+ll /docs
+sudo chown jefe_informatica /docs/informatica/
+sudo chown jefe_ventas /docs/ventas/
+ll docs
+ll /docs
+cat /etc/group
+ll /docs
+info chgrp | grep directory
+info chgrp | grep directories
+man chgrp 
+info chgrp
+ll /docs/
+cat /etc/group
+ll /docs
+sudo chmod g+w ./docs/direccion/
+ll /docs
+sudo chmod g+w docs/direccion
+ll /docs
+sudo chmod o-x docs/direccion
+ll /docs
+info chage
+info chmod
+ll /docs
+sudo chmod -R o-x docs/direccion
+ll /docs
+chmod -R o-x docs/direccion
+sudo chmod -R o-x docs/direccion
+ll /docs
+sudo chmod 774  docs/direccion
+ll /docs
+lsblk -f
+top
+clear
+pwd
+l
+tree
+ll -R
+ll /docs
+pwd
+ll /docs
+ll -R /docs
+ll -R
+cat /etc/group
+l
+tree
+clear
+ll -R
+ll
+ll /docs
+ll docs
+pwd
+l
+sudo chgrp finanzas docs/finanzas
+ll docs
+sudo chgrp informatica docs/informatica
+sudo chgrp ventas docs/ventas
+ll docs
+cat /etc/group
+ll
+ll docs
+chmod 775 docs/*
+sudo chmod 775 docs/*
+ll docs
+ll -R docs
+sudo chmod 775 docs/direccion/
+ll docs
+ll docs/direccion/
+history | grep chown
+pwd
+cd docs
+sudo chown gerentes direccion/
+ll
+sudo chown jefe_finanzas finanzas/
+ll
+sudo chown jefe_informatica informatica/
+sudo chown jefe_ventas ventas/
+ll
+whoami
+sudo chmod o-x ./*
+ll
+history 
+ll
+history | grep chgrp
+groups
+group
+cat /etc/group
+pwd
+l
+sudo chgrp jefes direccion/
+ll
+sudo chmod o-x direccion/
+ll
+sudo chmod o-r direccion/
+ll
+ll /home/jefe_finanzas
+ll /home/
+chmod o-rx /home/*
+sudo chmod o-rx /home/*
+ll /home
+cat /etc/crontab 
+history | grep cat /etc
+history | grep 'cat /etc'
+clear
+a
+l
+cd ..
+l
+cd ..
+ls
+cd /
+ls
+cd #
+ls
+tree teeesttt/
+mv teeesttt/sources.list.d/ ./
+sudo mv teeesttt/sources.list.d/ ./
+l
+ls teeesttt/
+rm teeesttt/
+rmdir teeesttt/
+l
+cat uuids.txt
+cat sources.list
+clear
+l
+sudo -i
+l
+poweroff

@@ -8,4 +8,4 @@ sda
 └─sda3 ext4           612f05c8-3552-4b09-9b19-3b4535c5989b /home
 sdb                                                        
 └─sdb1 ext4           129b4ac8-7c14-4d83-a0d1-ccc26d75c676 
-sr0                                                        
+sr
